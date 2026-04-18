@@ -31,6 +31,7 @@ and generates meaningful captions or summaries.
 - Matplotlib, Pillow
 
 ---
+
 ## 📊 Final Output
--A trained model capable of classifying aircraft images into "dent" and "crack" categories, enabling automated aircraft damage detection.
--A Transformer-based model that generates captions and summaries of images
+- A trained model capable of classifying aircraft images into "dent" and "crack" categories, enabling automated aircraft damage detection.
+- A Transformer-based model that generates captions and summaries of images
